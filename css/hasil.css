@@ -1,0 +1,13 @@
+* {
+  font-family: "Quicksand", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to right, #aa076b, #61045f) !important;
+}
+
+.bg-dark {
+  opacity: 70%;
+}
