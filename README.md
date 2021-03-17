@@ -1,4 +1,4 @@
-# Rentang Nilai
+# Rentang Nilai PHP
 Proyek simpel untuk tugas sekolah  
 Program menentukan kelulusan mata pelajaran
 
