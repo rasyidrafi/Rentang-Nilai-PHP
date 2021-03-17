@@ -2,15 +2,15 @@
 Proyek simpel untuk tugas sekolah  
 Program menentukan kelulusan mata pelajaran
 
-## Installation
+## Instalasi
 Copy proyeknya dan letakkan di folder htdocs  
 
-## Usage
+## Penggunaan
 Pergi ke url localhost/{nama-folder}
 
-## Contributing
+## Kontribusi
 Pull request terbuka lebar
 
-## License
+## Lisensi
 
 [MIT](https://github.com/rasyidrafi/Rentang-Nilai-PHP/blob/master/LICENSE)
